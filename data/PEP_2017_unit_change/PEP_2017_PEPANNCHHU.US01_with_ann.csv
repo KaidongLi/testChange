@@ -1,0 +1,54 @@
+GEO.id,GEO.id2,GEO.display-label,GC.target-geo-id,GC.target-geo-id2,GC.display-label,GC.display-label,huest72016,huest72017,numdiff20162017,percdiff20162017,rank72016,rank72017,numrank20162017,percrank20162017
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geography,Geography,Housing Unit Estimate (as of July 1) - 2016,Housing Unit Estimate (as of July 1) - 2017,"Change, 2016 to 2017 - Number","Change, 2016 to 2017 - Percent [1]",State Ranking - Housing Unit Estimate (as of July 1) - 2016,State Ranking - Housing Unit Estimate (as of July 1) - 2017,"State Ranking - Change, 2016 to 2017 - Number","State Ranking - Change, 2016 to 2017 - Percent"
+0100000US,,United States,0100000US,,United States,United States,136312356,137403460,1091104,0.8,(X),(X),(X),(X)
+0100000US,,United States,0400000US01,01,United States - Alabama,Alabama,2242648,2258596,15948,0.7,24,24,20,23
+0100000US,,United States,0400000US02,02,United States - Alaska,Alaska,315387,316952,1565,0.5,49,49,49,42
+0100000US,,United States,0400000US04,04,United States - Arizona,Arizona,2966754,2999157,32403,1.1,14,14,9,15
+0100000US,,United States,0400000US05,05,United States - Arkansas,Arkansas,1360897,1370111,9214,0.7,31,31,33,27
+0100000US,,United States,0400000US06,06,United States - California,California,14078685,14176670,97985,0.7,1,1,3,24
+0100000US,,United States,0400000US08,08,United States - Colorado,Colorado,2348750,2385359,36609,1.6,22,22,8,3
+0100000US,,United States,0400000US09,09,United States - Connecticut,Connecticut,1512618,1517388,4770,0.3,29,29,40,46
+0100000US,,United States,0400000US10,10,United States - Delaware,Delaware,427736,432872,5136,1.2,45,45,39,9
+0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,311319,314805,3486,1.1,50,50,45,12
+0100000US,,United States,0400000US12,12,United States - Florida,Florida,9338805,9441153,102348,1.1,3,3,2,13
+0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,4236284,4282106,45822,1.1,10,10,5,16
+0100000US,,United States,0400000US15,15,United States - Hawaii,Hawaii,539816,542904,3088,0.6,42,42,46,35
+0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,709866,721820,11954,1.7,40,40,28,2
+0100000US,,United States,0400000US17,17,United States - Illinois,Illinois,5345230,5359557,14327,0.3,6,6,26,49
+0100000US,,United States,0400000US18,18,United States - Indiana,Indiana,2869818,2885304,15486,0.5,17,17,22,38
+0100000US,,United States,0400000US19,19,United States - Iowa,Iowa,1385663,1398016,12353,0.9,30,30,27,19
+0100000US,,United States,0400000US20,20,United States - Kansas,Kansas,1265805,1273742,7937,0.6,33,33,35,29
+0100000US,,United States,0400000US21,21,United States - Kentucky,Kentucky,1972752,1984150,11398,0.6,26,26,29,33
+0100000US,,United States,0400000US22,22,United States - Louisiana,Louisiana,2043686,2061420,17734,0.9,25,25,17,20
+0100000US,,United States,0400000US23,23,United States - Maine,Maine,738823,742585,3762,0.5,39,39,42,41
+0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,2437648,2448984,11336,0.5,20,20,30,43
+0100000US,,United States,0400000US25,25,United States - Massachusetts,Massachusetts,2879339,2894484,15145,0.5,16,16,25,39
+0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,4578406,4595158,16752,0.4,8,9,19,44
+0100000US,,United States,0400000US27,27,United States - Minnesota,Minnesota,2419560,2437711,18151,0.8,21,21,16,22
+0100000US,,United States,0400000US28,28,United States - Mississippi,Mississippi,1315370,1323663,8293,0.6,32,32,34,28
+0100000US,,United States,0400000US29,29,United States - Missouri,Missouri,2776714,2792506,15792,0.6,18,18,21,36
+0100000US,,United States,0400000US30,30,United States - Montana,Montana,505696,510389,4693,0.9,43,43,41,18
+0100000US,,United States,0400000US31,31,United States - Nebraska,Nebraska,830829,837568,6739,0.8,38,38,36,21
+0100000US,,United States,0400000US32,32,United States - Nevada,Nevada,1232180,1249648,17468,1.4,34,34,18,5
+0100000US,,United States,0400000US33,33,United States - New Hampshire,New Hampshire,630982,634666,3684,0.6,41,41,44,32
+0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,3604544,3615817,11273,0.3,11,11,31,47
+0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,932577,937926,5349,0.6,36,36,37,34
+0100000US,,United States,0400000US36,36,United States - New York,New York,8285197,8327388,42191,0.5,4,4,7,40
+0100000US,,United States,0400000US37,37,United States - North Carolina,North Carolina,4568097,4622575,54478,1.2,9,8,4,10
+0100000US,,United States,0400000US38,38,United States - North Dakota,North Dakota,370931,374657,3726,1.0,47,47,43,17
+0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,5186277,5201485,15208,0.3,7,7,23,48
+0100000US,,United States,0400000US40,40,United States - Oklahoma,Oklahoma,1723866,1734066,10200,0.6,28,28,32,31
+0100000US,,United States,0400000US41,41,United States - Oregon,Oregon,1748791,1768494,19703,1.1,27,27,15,11
+0100000US,,United States,0400000US42,42,United States - Pennsylvania,Pennsylvania,5673977,5694130,20153,0.4,5,5,14,45
+0100000US,,United States,0400000US44,44,United States - Rhode Island,Rhode Island,467264,468251,987,0.2,44,44,51,50
+0100000US,,United States,0400000US45,45,United States - South Carolina,South Carolina,2254535,2284722,30187,1.3,23,23,11,8
+0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,387396,392646,5250,1.4,46,46,38,7
+0100000US,,United States,0400000US47,47,United States - Tennessee,Tennessee,2926730,2958706,31976,1.1,15,15,10,14
+0100000US,,United States,0400000US48,48,United States - Texas,Texas,10773572,10932870,159298,1.5,2,2,1,4
+0100000US,,United States,0400000US49,49,United States - Utah,Utah,1062454,1084631,22177,2.1,35,35,13,1
+0100000US,,United States,0400000US50,50,United States - Vermont,Vermont,332947,335224,2277,0.7,48,48,47,25
+0100000US,,United States,0400000US51,51,United States - Virginia,Virginia,3489039,3512877,23838,0.7,12,12,12,26
+0100000US,,United States,0400000US53,53,United States - Washington,Washington,3059964,3103117,43153,1.4,13,13,6,6
+0100000US,,United States,0400000US54,54,United States - West Virginia,West Virginia,890801,892226,1425,0.2,37,37,50,51
+0100000US,,United States,0400000US55,55,United States - Wisconsin,Wisconsin,2680263,2695462,15199,0.6,19,19,24,37
+0100000US,,United States,0400000US56,56,United States - Wyoming,Wyoming,275068,276746,1678,0.6,51,51,48,30

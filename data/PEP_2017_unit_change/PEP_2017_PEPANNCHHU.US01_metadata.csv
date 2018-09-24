@@ -1,0 +1,14 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+GC.target-geo-id,Target Geo Id
+GC.target-geo-id2,Target Geo Id2
+GC.display-label,Geography,GC.display-label
+huest72016,Housing Unit Estimate (as of July 1) - 2016
+huest72017,Housing Unit Estimate (as of July 1) - 2017
+numdiff20162017,"Change, 2016 to 2017 - Number"
+percdiff20162017,"Change, 2016 to 2017 - Percent [1]"
+rank72016,State Ranking - Housing Unit Estimate (as of July 1) - 2016
+rank72017,State Ranking - Housing Unit Estimate (as of July 1) - 2017
+numrank20162017,"State Ranking - Change, 2016 to 2017 - Number"
+percrank20162017,"State Ranking - Change, 2016 to 2017 - Percent"
